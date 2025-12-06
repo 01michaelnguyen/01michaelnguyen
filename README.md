@@ -9,6 +9,6 @@ Closer towards the end of my studies, I aim to add wind-forcing effects, which c
 I am looking forward to simulate large-scale models of the Arctic Ocean using the full equations (Shallow-Water or rotating Navier-Stokes equations), which involves using the fast Oceananigans package in Julia, in conjunction with Matthew Crowe.
 
 If you have any further questions or want to get in touch, ask me on:
-zcahmng at ucl at ac at uk (replace at with ".") :smiling_face:
+zcahmng at ucl at ac at uk (replace at with ".") ☺
 
 
